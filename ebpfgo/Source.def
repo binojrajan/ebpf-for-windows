@@ -1,0 +1,11 @@
+;
+;  Copyright (c) Microsoft Corporation
+;  SPDX-License-Identifier: MIT
+;
+
+LIBRARY
+EXPORTS
+    bpf_map_get_fd_by_id_go
+    bpf_map_get_next_id_go
+    bpf_map_get_type_by_fd_go
+    bpf_map_lookup_elem_go
